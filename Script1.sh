@@ -1,3 +1,4 @@
+echo "I don't want any conflicts"
 echo "my name is ritu"
 echo "I am learning aws"
 echo "I am trying to create merge conflicts"
